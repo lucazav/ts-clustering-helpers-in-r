@@ -1,2 +1,3 @@
-# ts-clustering-helpers-in-r
-The repository contains few functions in R that simplify the time-series clustering using the package dtwclust
+# Time-Series Clustering Helpers in R
+The repository contains few functions in R that simplify the time-series clustering using the package *dtwclust*.
+Few examples coming soon...
